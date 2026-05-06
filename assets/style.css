@@ -1,19 +1,15 @@
 :root{
-  --bg:#07111f;
-  --bg2:#0b1730;
-  --card:#0f1d35;
-  --card2:#122641;
-  --text:#eef5ff;
-  --muted:#b8c7df;
-  --soft:#dce9ff;
-  --line:rgba(255,255,255,.12);
-  --brand:#4da3ff;
-  --brand2:#2fe0b0;
-  --accent:#ffb45c;
-  --accent2:#ffd39b;
-  --max:1120px;
-  --radius:20px;
-  --shadow:0 20px 60px rgba(0,0,0,.28);
+  --bg:#F8FAFC;
+  --card:#ffffff;
+  --text:#0F172A;
+  --muted:#64748B;
+  --line:rgba(15,23,42,.08);
+
+  --brand:#2F6FED;   /* trust blue */
+  --brand2:#22C1A7;  /* safety teal */
+
+  --max:1080px;
+  --radius:16px;
 }
 
 *{box-sizing:border-box}
